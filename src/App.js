@@ -2,6 +2,8 @@
 import "./App.css";
 import Navbar from "./Navbar";
 
+// A small change
+
 function App() {
   const title = "Welcome to the new blog";
   const likes = 50;
