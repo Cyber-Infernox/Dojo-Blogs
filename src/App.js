@@ -8,8 +8,6 @@ function App() {
   // const person = { name: "Yoshi", age: 30 };
   const go = "http://www.google.com";
 
-  // A comment
-
   return (
     <div className="App">
       <Navbar />
