@@ -1,3 +1,22 @@
 {
-  "blogs": []
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Travel diaries",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "The Next Blog",
+      "body": "Coding ninjas",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "The last blog",
+      "body": "I am good",
+      "author": "mario",
+      "id": 3
+    }
+  ]
 }
